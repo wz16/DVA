@@ -1,0 +1,10 @@
+*.zip
+*.pth
+*.png
+age_prediction/age_estimation_pytorch/appa-real-release/*
+*.jpg
+*.pyc
+*.mat
+*.tar
+*.npz
+*.pickle
